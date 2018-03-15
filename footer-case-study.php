@@ -8,15 +8,6 @@
 		
 	</div>
 	
-	<div class="partnerships">
-		<div class="partner"><img src="<?php echo get_template_directory_uri(); ?>/img/cisco.png"></div>
-		<div class="partner"><img src="<?php echo get_template_directory_uri(); ?>/img/kaspersky.png"></div>
-		<div class="partner"><img src="<?php echo get_template_directory_uri(); ?>/img/sophos.png"></div>
-		<div class="partner"><img src="<?php echo get_template_directory_uri(); ?>/img/juniper.png"></div>
-		<div class="partner"><img src="<?php echo get_template_directory_uri(); ?>/img/microsoft.png"></div>
-		<div class="partner"><img src="<?php echo get_template_directory_uri(); ?>/img/apple.png"></div>
-	</div>
-	
 	<div id="footer-contact-area">
 	
 		<div class="footer-navigation">
@@ -31,7 +22,7 @@
 			</div>
 			
 			<div class="copyright">
-				&copy; <?php echo date('Y'); ?> ITD UK Limited, 8 Laurence Pountney Hill, London, EC4R 0BE • <a href="<?php echo get_site_url(); ?>/privacy/">Privacy</a> • <a href="<?php echo get_site_url(); ?>/terms-and-conditions/">Terms &amp; Conditions</a>
+				&copy; <?php echo date('Y'); ?> ITD UK, 8 Laurence Pountney Hill, London, EC4R 0BE • <a href="<?php echo get_site_url(); ?>/privacy/">Privacy</a> • <a href="<?php echo get_site_url(); ?>/terms-and-conditions/">Terms &amp; Conditions</a>
 			</div>
 			
 			<div class="social-icons">
