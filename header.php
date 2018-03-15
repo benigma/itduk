@@ -5,6 +5,11 @@
 	<title><?php wp_title('|','true','right'); ?></title>
 	<link rel="stylesheet" type="text/css" href="<?php bloginfo('stylesheet_url'); ?>">
 	
+	<link rel="icon" type="image/png" href="<?php echo get_template_directory_uri(); ?>/favicon-32x32.png" sizes="32x32" />
+	<link rel="icon" type="image/png" href="<?php echo get_template_directory_uri(); ?>/favicon-16x16.png" sizes="16x16" />
+	<link href="<?php echo get_template_directory_uri(); ?>/img/apple-touch-icon-180x180.png" rel="apple-touch-icon" sizes="180x180" />
+	<link rel="icon" type="image/png" href="<?php echo get_template_directory_uri(); ?>/img/android-chrome-192x192.png" sizes="192x192">
+
 	<?php wp_head(); ?>
 </head>
 <body <?php body_class(); ?>>

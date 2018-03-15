@@ -8,15 +8,6 @@
 		
 	</div>
 	
-	<div class="partnerships">
-		<div class="partner"><img src="<?php echo get_template_directory_uri(); ?>/img/cisco.png"></div>
-		<div class="partner"><img src="<?php echo get_template_directory_uri(); ?>/img/kaspersky.png"></div>
-		<div class="partner"><img src="<?php echo get_template_directory_uri(); ?>/img/sophos.png"></div>
-		<div class="partner"><img src="<?php echo get_template_directory_uri(); ?>/img/juniper.png"></div>
-		<div class="partner"><img src="<?php echo get_template_directory_uri(); ?>/img/microsoft.png"></div>
-		<div class="partner"><img src="<?php echo get_template_directory_uri(); ?>/img/apple.png"></div>
-	</div>
-	
 	<div id="footer-contact-area">
 	
 		<div class="footer-navigation">

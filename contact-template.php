@@ -53,6 +53,6 @@ Template Name: Contact Template
 
 </div>
 	
-<iframe width='100%' height='500px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/benigma.004fkc50/attribution,zoompan,zoomwheel.html?access_token=pk.eyJ1IjoiYmVuaWdtYSIsImEiOiJlZjg4YmJiNmMyYTlkMjQ0MzlmYTA1YjYwYTRmN2NiYiJ9.nz1A1vJJVSXY5GgKNqQrTw'></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2483.126875427412!2d-0.09094308386062476!3d51.51088827963585!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487603546cf4ac71%3A0x128298c046c3fd12!2sITD+UK!5e0!3m2!1sen!2suk!4v1521103971108" width="100%" height="500" frameborder="0" allowfullscreen></iframe>
 
 <?php get_footer('contact'); ?>
