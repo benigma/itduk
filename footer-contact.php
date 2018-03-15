@@ -14,7 +14,7 @@
 			</div>
 			
 			<div class="copyright">
-				&copy; <?php echo date('Y'); ?> ITD UK Limited, 8 Laurence Pountney Hill, London, EC4R 0BE • <a href="<?php echo get_site_url(); ?>/privacy/">Privacy</a> • <a href="<?php echo get_site_url(); ?>/terms-and-conditions/">Terms &amp; Conditions</a>
+				&copy; <?php echo date('Y'); ?> ITD UK, 8 Laurence Pountney Hill, London, EC4R 0BE • <a href="<?php echo get_site_url(); ?>/privacy/">Privacy</a> • <a href="<?php echo get_site_url(); ?>/terms-and-conditions/">Terms &amp; Conditions</a>
 			</div>
 			
 			<div class="social-icons">
